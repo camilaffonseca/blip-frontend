@@ -2050,10 +2050,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@nexpy/design-system@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@nexpy/design-system/-/design-system-0.0.4.tgz#0fe581e43273e1aec8d76d0564ae23bfad9db8d2"
-  integrity sha512-gf798ilniNH/EbDgIj6CMlkJ8sitGXiNxKy0zmEV09XpnQJYoVEng1n3eb4gX/sCpDBg7KqXbaUMb/czTnYj5Q==
+"@nexpy/design-system@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@nexpy/design-system/-/design-system-0.0.7.tgz#d408fd12fababe18511f7853c16db3f71b41737a"
+  integrity sha512-+7qI5YBPm9ebD6fjeVzdNdBotRSrYpKe3wL2pxQw6gBWgq0BVH51wgPkQq/s2bprLbsooFmaDjVbkQX5YR/39w==
   dependencies:
     "@babel/runtime" "^7.17.2"
     "@nexpy/react-easy-context-api" "^1.0.2"
