@@ -1,6 +1,5 @@
 {
-  "name": "nexpy-frontend-boilerplate",
-  "version": "2.0.0",
+  "name": "blip-frontend",
   "private": true,
   "scripts": {
     "prepare": "husky install",

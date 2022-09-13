@@ -37,7 +37,7 @@ const Meta = () => (
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.DESCRIPTION}
       name='description'
-      content='Aplicação Nexpy para gerenciamento privado.'
+      content='Blip: Software de chatbots e contatos inteligentes'
     />
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.THEME_COLOR}
@@ -47,7 +47,7 @@ const Meta = () => (
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.OG_DESCRIPTION}
       property='og:description'
-      content='Aplicação Nexpy para gerenciamento privado.'
+      content='Blip: Software de chatbots e contatos inteligentes'
     />
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.OG_TITLE}
@@ -72,7 +72,7 @@ const Meta = () => (
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.TWITTER_DESCRIPTION}
       name='twitter:description'
-      content='Aplicação Nexpy para gerenciamento privado.'
+      content='Blip: Software de chatbots e contatos inteligentes'
     />
     <meta
       key={META_TAGS_IDENTIFIER_KEYS.TWITTER_IMAGE}

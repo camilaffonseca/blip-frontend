@@ -1,9 +1,9 @@
 import { create } from '@storybook/theming';
 
-import logo from './assets/nexpy-logo.png'
+import logo from './assets/blip-transparent.svg'
 
 export default create({
   base: 'dark',
-  brandTitle: 'Nexpy Design System',
+  brandTitle: 'Blip',
   brandImage: logo,
 });

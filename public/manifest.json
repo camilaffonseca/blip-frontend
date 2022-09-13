@@ -1,7 +1,7 @@
 {
-  "short_name": "Nexpy",
-  "name": "Nexpy App",
-  "description": "Aplicação Nexpy para gerenciamento privado.",
+  "short_name": "Blip",
+  "name": "Blip",
+  "description": "Blip: Software de chatbots e contatos inteligentes",
   "icons": [
     {
       "src": "/images/icons/icon-36x36.png",

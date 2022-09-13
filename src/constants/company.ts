@@ -1,1 +1,1 @@
-export const BUSINESS_NAME = 'Nexpy'
+export const BUSINESS_NAME = 'Blip'
